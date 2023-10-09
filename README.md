@@ -3,7 +3,7 @@
 👋 Hello, I'm Sean.
 
 🌟 Key Skills:
-- 💼 Frontend Development: HTML, CSS, LUA, C
+- 💼 Frontend Development: LUA,JS,CSS,HTML
 - 🛢️ Databases: MySQL
 
 🔨 Projects:
