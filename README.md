@@ -12,8 +12,6 @@
 
 🌱 I'm Still Up-Coming With Coding and Always Willing To Learn New Things Or Improve My Ways Of Coding 
 
-🚀 In My Free Time I Enjoy Going Out To Places, If Not Spending Time With My Girlfriend Or Working On Something To Bring Myself Up As A Better Developer
-
 <h1 align="center"> 💻 Current Status: </h1>
 
 <p align="center">
